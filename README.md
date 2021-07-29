@@ -2,10 +2,10 @@
 🔬 알츠하이머 질병을 연구하고, ✍️ 책을 씁니다. <br/> <br/>
 
 * 🔬 연구논문
-  + 딥러닝을 이용한 단백질 접힘 예측, [Scientific reports (2015)](https://www.nature.com/articles/srep17573)
-  + 딥러닝을 이용한 알츠하이머 진단, [Frontiers in aging neuroscience (2019)](https://www.frontiersin.org/articles/10.3389/fnagi.2019.00220/full)
-  + 딥러닝을 이용한 알츠하이머 원인 단백질 추적, [BMC bioinformatics (2020)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03848-0)
-  + 딥러닝을 이용한 유전자 변이 추적 : 알츠하이머 진단으로의 적용, [medRxiv (2021)](https://www.medrxiv.org/content/10.1101/2021.07.19.21260789v1)
+  + 딥러닝을 이용한 단백질 접힘 예측, [(2015)](https://www.nature.com/articles/srep17573)
+  + 딥러닝을 이용한 알츠하이머 진단, [(2019)](https://www.frontiersin.org/articles/10.3389/fnagi.2019.00220/full)
+  + 딥러닝을 이용한 알츠하이머 원인 단백질 추적, [(2020)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03848-0)
+  + 딥러닝을 이용한 유전자 변이 추적 : 알츠하이머 진단으로의 적용, [(2021)](https://www.medrxiv.org/content/10.1101/2021.07.19.21260789v1)
 * 💻 컴퓨터
   + 모두의 딥러닝 2판 ([서점](http://www.yes24.com/Product/Goods/86611190), [소스코드](https://github.com/taehojo/deeplearning-for-everyone-2nd)), 길벗, 2019  
   + 모두의 딥러닝 1판 ([서점](http://www.yes24.com/Product/Goods/57736119), [소스코드](https://github.com/taehojo/deeplearning-for-everyone-1st)), 길벗, 2017
