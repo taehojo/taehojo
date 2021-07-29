@@ -1,12 +1,18 @@
-👋 안녕하세요 조태호입니다. <br> <br>
-🔬 알츠하이머 질병을 연구하고, ✍️ 책을 씁니다. 
+<b>👋 안녕하세요 조태호입니다.</b> <br/> <br/>
+🔬 알츠하이머 질병을 연구하고, ✍️ 책을 씁니다. <br/> <br/>
 
-- 모두의 딥러닝 2판 ([서점](http://www.yes24.com/Product/Goods/86611190), [소스코드](https://github.com/taehojo/deeplearning-for-everyone-2nd))
-- 모두의 딥러닝 1판 ([서점](http://www.yes24.com/Product/Goods/57736119), [소스코드](https://github.com/taehojo/deeplearning-for-everyone-1st))
-- 딥러닝 워크북 ([서점](http://www.yes24.com/Product/Goods/59789570), [소스코드](https://github.com/taehojo/deeplearning-workshop))
+* 🔬 연구논문
+  + 딥러닝을 이용한 단백질 접힘 예측, [Scientific reports (2015)](https://www.nature.com/articles/srep17573)
+  + 딥러닝을 이용한 알츠하이머 진단, [Frontiers in aging neuroscience (2019)](https://www.frontiersin.org/articles/10.3389/fnagi.2019.00220/full)
+  + 딥러닝을 이용한 알츠하이머 원인 단백질 추적, [BMC bioinformatics (2020)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03848-0)
+  + 딥러닝을 이용한 유전자 변이 추적 : 알츠하이머 진단으로의 적용, [medRxiv (2021)](https://www.medrxiv.org/content/10.1101/2021.07.19.21260789v1)
+* 💻 컴퓨터
+  + 모두의 딥러닝 2판 ([서점](http://www.yes24.com/Product/Goods/86611190), [소스코드](https://github.com/taehojo/deeplearning-for-everyone-2nd)), 길벗, 2019  
+  + 모두의 딥러닝 1판 ([서점](http://www.yes24.com/Product/Goods/57736119), [소스코드](https://github.com/taehojo/deeplearning-for-everyone-1st)), 길벗, 2017
+  + 딥러닝 워크북 ([서점](http://www.yes24.com/Product/Goods/59789570), [소스코드](https://github.com/taehojo/deeplearning-workshop)), 길벗, 2018
  
-- 당신의 이유는 무엇입니까 ([서점](http://www.yes24.com/Product/Goods/90981164), [동영상](https://www.youtube.com/watch?v=szHI91_ZbBU))
-
+* 📖 에세이
+  + 당신의 이유는 무엇입니까 ([서점](http://www.yes24.com/Product/Goods/90981164), [동영상](https://www.youtube.com/watch?v=szHI91_ZbBU), [브런치](https://brunch.co.kr/brunchbook/not-this-world)), 어떤책, 2020, 제7회 브런치북 대상
 
 
 <!---
