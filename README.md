@@ -3,7 +3,7 @@
 머신러닝, 딥러닝을 이용해 알츠하이머 질병의 조기 진단을 연구하며, 틈틈이 책을 쓰고 번역합니다 ✍️ <br/> 
 
 * 📖 IT책
-  + 모두의 딥러닝 개정3판 ([코드](https://github.com/taehojo/deeplearning),정오표(업데이트 예정),책(업데이트 예정)), 길벗, 2022 
+  + 모두의 딥러닝 개정3판 ([코드](https://github.com/taehojo/deeplearning),[정오표](https://taehojo.github.io/book/deeplearning.pdf),책(업데이트 예정)), 길벗, 2022 
   + <b> 모두의 딥러닝 개정2판 </b>  ([코드](https://github.com/taehojo/deeplearning-for-everyone-2nd), [정오표](https://taehojo.github.io/book/errata-20220111.pdf)), 길벗, 2019 
   + 모두의 딥러닝 1판 (절판) ([코드](https://github.com/taehojo/deeplearning-for-everyone-1st)), 길벗, 2017
 
