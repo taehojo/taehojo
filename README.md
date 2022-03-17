@@ -2,11 +2,17 @@
 
 머신러닝, 딥러닝을 이용해 알츠하이머 질병의 조기 진단을 연구하며, 틈틈이 책을 쓰고 번역합니다 ✍️ <br/> 
 
-* 📖 책
-  + <b> 쉽게 시작하는 캐글 데이터 분석 </b>  ([코드](https://github.com/taehojo/getting_started_with_kaggle)), 길벗, 2021 
+* 📖 IT책
+  + 모두의 딥러닝 개정3판 ([코드](https://github.com/taehojo/deeplearning),[정오표](업데이트 예정),[책](업데이트 예정)), 길벗, 2022 
   + <b> 모두의 딥러닝 개정2판 </b>  ([코드](https://github.com/taehojo/deeplearning-for-everyone-2nd), [정오표](https://taehojo.github.io/book/errata-20220111.pdf)), 길벗, 2019 
-  + 딥러닝 워크북 ([코드](https://github.com/taehojo/deeplearning-workshop)), 길벗, 2018
   + 모두의 딥러닝 1판 (절판) ([코드](https://github.com/taehojo/deeplearning-for-everyone-1st)), 길벗, 2017
+
+* 📖 번역서
+  + <b> 그림으로 배우는 인지과학 </b> ([책](업데이트 예정)), 길벗, 2022 
+  + <b> 쉽게 시작하는 캐글 데이터 분석 (번역) </b>  ([코드](https://github.com/taehojo/getting_started_with_kaggle),[책](http://www.yes24.com/Product/Goods/103526120)), 길벗, 2021 
+
+* 📖 감수서
+  + 딥러닝 워크북 ([코드](https://github.com/taehojo/deeplearning-workshop)), 길벗, 2018
 
 * 🔬 연구
   + 머신러닝을 이용한 전사 종결 예측 프로그램 [(코드)](https://github.com/taehojo/machine-learning-biochemistry-rho)
