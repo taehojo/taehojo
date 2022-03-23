@@ -6,7 +6,7 @@
   + <b> 모두의 딥러닝 개정3판 </b> ([코드](https://github.com/taehojo/deeplearning),[정오표](https://taehojo.github.io/book/deeplearning.pdf)), 길벗, 2022  [![Youtube](https://img.shields.io/youtube/channel/views/UC_LvgzB44dGRvOcQqMzdT4g?label=%EB%8F%99%EC%98%81%EC%83%81%20%EA%B0%95%EC%9D%98&style=social)](https://bit.ly/taehojo) 
 
 * 📖 IT책
-  + 모두의 딥러닝 개정2판 ([코드](https://github.com/taehojo/deeplearning-for-everyone-2nd), [정오표](https://taehojo.github.io/book/errata-20220111.pdf)), 길벗, 2019 
+  + 모두의 딥러닝 개정2판 ([코드](https://github.com/taehojo/deeplearning-for-everyone-2nd), [정오표](https://taehojo.github.io/book/errata-20220323.pdf)), 길벗, 2019 
   + 모두의 딥러닝 1판 (절판) ([코드](https://github.com/taehojo/deeplearning-for-everyone-1st)), 길벗, 2017
 
 
