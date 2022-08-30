@@ -28,6 +28,8 @@
 * 📓 에세이
   + 🏆 <제7회 브런치북 대상> 당신의 이유는 무엇입니까 ([책](http://www.yes24.com/Product/Goods/90981164), [브런치](https://brunch.co.kr/brunchbook/not-this-world), [애나의 다락방 라디오](https://www.youtube.com/watch?v=szHI91_ZbBU)), 어떤책, 2020
 
+=======================================================================
+
 Taeho Jo Ph.D 
 
 Assistant research professor at a medical school with over 12 years of research experience, recently received a 3-year research grant from Alzheimer's Association. In depth knowledge regarding the early detection of Alzheimer's disease using AI/deep learning methods on genomic, multi-omics, and radiology data. Experienced in engaging students in the learning process through creative teaching strategies. ✍️
