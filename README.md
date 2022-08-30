@@ -33,33 +33,33 @@ Taeho Jo Ph.D
 Assistant research professor at a medical school with over 12 years of research experience, recently received a 3-year research grant from Alzheimer's Association. In depth knowledge regarding the early detection of Alzheimer's disease using AI/deep learning methods on genomic, multi-omics, and radiology data. Experienced in engaging students in the learning process through creative teaching strategies. ✍️
 
 🔬 Research
-Deep Learning-Based Genetic Variation Identification: Applied to Classifying Alzheimer's Disease (Code)
-Transcriptional termination prediction program using machine learning (code)
-Gene Mutation Tracking Using Deep Learning: Application to Alzheimer's Diagnosis (2021)
-Tracking proteins that cause Alzheimer's using deep learning (2020)
-Alzheimer's Diagnosis Using Deep Learning (2019)
-Protein Fold Prediction Using Deep Learning (2015)
-Protein Fold Prediction Using Machine Learning (2014)
+  + <b> Deep Learning-Based Genetic Variation Identification: Applied to Classifying Alzheimer's Disease</b>  [(Code)](https://github.com/taehojo/SWAT-CNN)
+  + <b> Transcriptional termination prediction program using machine learning</b> [(Code)](https://github.com/taehojo/machine-learning-biochemistry-rho)
+  + <b> Gene Mutation Tracking Using Deep Learning: Application to Alzheimer's Diagnosis</b>  [(2021)](https://www.medrxiv.org/content/10.1101/2021.07.19.21260789v1)
+  + <b> Tracking proteins that cause Alzheimer's using deep learning</b>   [(2020)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03848-0)
+  + <b> Alzheimer's Diagnosis Using Deep Learning</b>  [(2019)](https://www.frontiersin.org/articles/10.3389/fnagi.2019.00220/full)
+  + <b> Protein Fold Prediction Using Deep Learning</b>  [(2015)](https://www.nature.com/articles/srep17573) 
+  + <b> Protein Fold Prediction Using Machine Learning</b>  [(2014)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-S11-S14)
 
 ✨ New book
-Deep Learning for Everyone 3rd Edition ([Code](https://github.com/taehojo/deeplearning),[Errata](https://taehojo.github.io/book/deeplearning-20220727.pdf),[Book](http://www.yes24.com/Product/Goods/108553440)), Gilbut, 2022  [![Youtube](https://img.shields.io/youtube/channel/views/UC_LvgzB44dGRvOcQqMzdT4g?label=%EB%8F%99%EC%98%81%EC%83%81%20%EA%B0%95%EC%9D%98&style=social)](https://bit.ly/taehojo) 
-
+  + <b> Deep Learning for Everyone 3rd Edition </b> ([Code](https://github.com/taehojo/deeplearning),[Errata](https://taehojo.github.io/book/deeplearning-20220727.pdf),[Book](http://www.yes24.com/Product/Goods/108553440)), Gilbut, 2022  [![Youtube](https://img.shields.io/youtube/channel/views/UC_LvgzB44dGRvOcQqMzdT4g?label=%EB%8F%99%EC%98%81%EC%83%81%20%EA%B0%95%EC%9D%98&style=social)](https://bit.ly/taehojo) 
+ 
 📖 IT book
-Deep Learning for Everyone  2nd Edition ([Code](https://github.com/taehojo/deeplearning-for-everyone-2nd), [Errata](https://taehojo.github.io/book/errata-20220511.pdf)), Gilbut, 2019 
-Deep Learning for Everyone 1st Edition ([Code](https://github.com/taehojo/deeplearning-for-everyone-1st)), Gilbut, 2017
+  + <b> Deep Learning for Everyone  2nd Edition </b> ([Code](https://github.com/taehojo/deeplearning-for-everyone-2nd), [Errata](https://taehojo.github.io/book/errata-20220511.pdf)), Gilbut, 2019 
+  + <b> Deep Learning for Everyone 1st Edition </b> ([Code](https://github.com/taehojo/deeplearning-for-everyone-1st)), Gilbut, 2017
 
 📖 Translation
-Cognitive Neuroscience ([Book](http://www.yes24.com/Product/Goods/108250950)), Gilbot, 2022
-Kaggle Data Analysis ([Code](https://github.com/taehojo/getting_started_with_kaggle, [Book](http://www.yes24.com/Product/Goods/103526120)), Gilbot, 2021
+  + <b> Cognitive Neuroscience</b>  ([Book](http://www.yes24.com/Product/Goods/108250950)), Gilbot, 2022
+  + <b> Kaggle Data Analysis</b>  ([Code](https://github.com/taehojo/getting_started_with_kaggle, [Book](http://www.yes24.com/Product/Goods/103526120)), Gilbot, 2021
 
 📖 Supervision
-Deep Learning Workbook ([Code](https://github.com/taehojo/deeplearning-workshop)), Gilbot, 2018
+  + <b> Deep Learning Workbook</b>  ([Code](https://github.com/taehojo/deeplearning-workshop)), Gilbot, 2018
 
 
 📓 Essay
 
 🏆 < Grand Prize / Kakao Brunch> 
-What is Your Reason ([Book](http://www.yes24.com/Product/Goods/90981164), [Brunch](https://brunch.co.kr/brunchbook/not-this-world)), A Certain Book, 2020
+  + <b> What is Your Reason</b>  ([Book](http://www.yes24.com/Product/Goods/90981164), [Brunch](https://brunch.co.kr/brunchbook/not-this-world)), A Certain Book, 2020
 
 <!---
 taehojo/taehojo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
