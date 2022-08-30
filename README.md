@@ -30,7 +30,7 @@
 
 ****
 
-Taeho Jo Ph.D 
+### Taeho Jo Ph.D 
 
 Assistant research professor at a medical school with over 12 years of research experience, recently received a 3-year research grant from Alzheimer's Association. In depth knowledge regarding the early detection of Alzheimer's disease using AI/deep learning methods on genomic, multi-omics, and radiology data. Experienced in engaging students in the learning process through creative teaching strategies. ✍️
 
