@@ -15,7 +15,7 @@
   + 쉽게 시작하는 캐글 데이터 분석  ([코드](https://github.com/taehojo/getting_started_with_kaggle),[책](http://www.yes24.com/Product/Goods/103526120)), 길벗, 2021 
 
 * 📖 감수서
-  + 딥러닝 워크북 ([코드](https://github.com/taehojo/deeplearning-workshop)), 길벗, 2018
+  + 딥러닝 워크북 ([코드](https://github.com/taehojo/deeplearning-workshop), [책](http://www.yes24.com/Product/Goods/59789570)), 길벗, 2018
 
 * 🔬 연구
   + 딥러닝을 이용한 유전 변이 식별: 알츠하이버 병 분류에 적용 </b>  [(코드)](https://github.com/taehojo/SWAT-CNN), [(논문)](https://pubmed.ncbi.nlm.nih.gov/35183061/)
@@ -44,7 +44,7 @@ Research interest: early detection of Alzheimer's disease using AI/deep learning
   + Deep Learning for Everyone 1st Edition ([Code](https://github.com/taehojo/deeplearning-for-everyone-1st)), Gilbut, 2017
   + Cognitive Neuroscience  ([Book](http://www.yes24.com/Product/Goods/108250950)), Gilbot, 2022
   + Kaggle Data Analysis  ([Code](https://github.com/taehojo/getting_started_with_kaggle), [Book](http://www.yes24.com/Product/Goods/103526120)), Gilbot, 2021
-  + Deep Learning Workbook  ([Code](https://github.com/taehojo/deeplearning-workshop)), Gilbot, 2018
+  + Deep Learning Workbook  ([Code](https://github.com/taehojo/deeplearning-workshop), [Book](http://www.yes24.com/Product/Goods/59789570)), Gilbot, 2018
   + What is Your Reason  ([Book](http://www.yes24.com/Product/Goods/90981164), [Brunch](https://brunch.co.kr/brunchbook/not-this-world)), A Certain Book, 2020
 
 🔬 Research
@@ -56,7 +56,3 @@ Research interest: early detection of Alzheimer's disease using AI/deep learning
   + A machine learning-based transcription termination prediction program [(Code)](https://github.com/taehojo/machine-learning-biochemistry-rho)
   
 
-<!---
-taehojo/taehojo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
