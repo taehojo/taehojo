@@ -34,7 +34,8 @@
 
 ### Taeho Jo Ph.D 
 
-Assistant research professor at the Indiana University School of Medicine. Interested in research on using AI/deep learning to detect Alzheimer's disease early using genomics, multi-omics, and radiology data. 
+Assistant research professor at the Indiana University School of Medicine. 
+Research interest: early detection of Alzheimer's disease using AI/deep learning methods on genomic, multi-omics, and radiology data.
   
 📖 Book
   + <b> Deep Learning for Everyone 3rd Edition </b> ([Code](https://github.com/taehojo/deeplearning), [Errata](https://taehojo.github.io/book/deeplearning-20220727.pdf), [Book](http://www.yes24.com/Product/Goods/108553440)), Gilbut, 2022  [![Youtube](https://img.shields.io/youtube/channel/views/UC_LvgzB44dGRvOcQqMzdT4g?label=%EB%8F%99%EC%98%81%EC%83%81%20%EA%B0%95%EC%9D%98&style=social)](https://bit.ly/taehojo) 
