@@ -28,7 +28,9 @@
 * 📓 에세이
   + 🏆 <제7회 브런치북 대상> 당신의 이유는 무엇입니까 ([책](http://www.yes24.com/Product/Goods/90981164), [브런치](https://brunch.co.kr/brunchbook/not-this-world), [애나의 다락방 라디오](https://www.youtube.com/watch?v=szHI91_ZbBU)), 어떤책, 2020
 
+
 ****
+
 
 ### Taeho Jo Ph.D 
 
@@ -43,9 +45,9 @@ Assistant research professor at a medical school with over 12 years of research 
   + <b> Improving protein fold recognition by Random Forest </b>  [(paper)](https://pubmed.ncbi.nlm.nih.gov/25350499/)
 
 ✨ New book
-  + <b> Deep Learning for Everyone 3rd Edition </b> ([Code](https://github.com/taehojo/deeplearning),[Errata](https://taehojo.github.io/book/deeplearning-20220727.pdf),[Book](http://www.yes24.com/Product/Goods/108553440)), Gilbut, 2022  [![Youtube](https://img.shields.io/youtube/channel/views/UC_LvgzB44dGRvOcQqMzdT4g?label=%EB%8F%99%EC%98%81%EC%83%81%20%EA%B0%95%EC%9D%98&style=social)](https://bit.ly/taehojo) 
- 
+
 📖 IT book
+  + <b> Deep Learning for Everyone 3rd Edition </b> ([Code](https://github.com/taehojo/deeplearning), [Errata](https://taehojo.github.io/book/deeplearning-20220727.pdf), [Book](http://www.yes24.com/Product/Goods/108553440)), Gilbut, 2022  [![Youtube](https://img.shields.io/youtube/channel/views/UC_LvgzB44dGRvOcQqMzdT4g?label=%EB%8F%99%EC%98%81%EC%83%81%20%EA%B0%95%EC%9D%98&style=social)](https://bit.ly/taehojo) 
   + <b> Deep Learning for Everyone  2nd Edition </b> ([Code](https://github.com/taehojo/deeplearning-for-everyone-2nd), [Errata](https://taehojo.github.io/book/errata-20220511.pdf)), Gilbut, 2019 
   + <b> Deep Learning for Everyone 1st Edition </b> ([Code](https://github.com/taehojo/deeplearning-for-everyone-1st)), Gilbut, 2017
 
