@@ -32,8 +32,8 @@
 
 ### Taeho Jo Ph.D 
 
-Assistant research professor at a medical school with over 12 years of research experience, recently received a 3-year research grant from Alzheimer's Association. In depth knowledge regarding the early detection of Alzheimer's disease using AI/deep learning methods on genomic, multi-omics, and radiology data. Experienced in engaging students in the learning process through creative teaching strategies. ✍️
-
+	Assistant research professor at a medical school with over 12 years of research experience, recently received a 3-year research grant from Alzheimer's Association. In depth knowledge regarding the early detection of Alzheimer's disease using AI/deep learning methods on genomic, multi-omics, and radiology data. Experienced in engaging students in the learning process through creative teaching strategies. 
+  
 🔬 Research
   + <b> Deep Learning-Based Genetic Variation Identification: Applied to Classifying Alzheimer's Disease</b>  [(Code)](https://github.com/taehojo/SWAT-CNN)
   + <b> Transcriptional termination prediction program using machine learning</b> [(Code)](https://github.com/taehojo/machine-learning-biochemistry-rho)
@@ -52,7 +52,7 @@ Assistant research professor at a medical school with over 12 years of research 
 
 📖 Translation
   + <b> Cognitive Neuroscience</b>  ([Book](http://www.yes24.com/Product/Goods/108250950)), Gilbot, 2022
-  + <b> Kaggle Data Analysis</b>  ([Code](https://github.com/taehojo/getting_started_with_kaggle, [Book](http://www.yes24.com/Product/Goods/103526120)), Gilbot, 2021
+  + <b> Kaggle Data Analysis</b>  ([Code](https://github.com/taehojo/getting_started_with_kaggle), [Book](http://www.yes24.com/Product/Goods/103526120)), Gilbot, 2021
 
 📖 Supervision
   + <b> Deep Learning Workbook</b>  ([Code](https://github.com/taehojo/deeplearning-workshop)), Gilbot, 2018
