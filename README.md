@@ -32,16 +32,15 @@
 
 ### Taeho Jo Ph.D 
 
-	Assistant research professor at a medical school with over 12 years of research experience, recently received a 3-year research grant from Alzheimer's Association. In depth knowledge regarding the early detection of Alzheimer's disease using AI/deep learning methods on genomic, multi-omics, and radiology data. Experienced in engaging students in the learning process through creative teaching strategies. 
+Assistant research professor at a medical school with over 12 years of research experience, recently received a 3-year research grant from Alzheimer's Association. In depth knowledge regarding the early detection of Alzheimer's disease using AI/deep learning methods on genomic, multi-omics, and radiology data. Experienced in engaging students in the learning process through creative teaching strategies. 
   
 🔬 Research
-  + <b> Deep Learning-Based Genetic Variation Identification: Applied to Classifying Alzheimer's Disease</b>  [(Code)](https://github.com/taehojo/SWAT-CNN)
-  + <b> Transcriptional termination prediction program using machine learning</b> [(Code)](https://github.com/taehojo/machine-learning-biochemistry-rho)
-  + <b> Gene Mutation Tracking Using Deep Learning: Application to Alzheimer's Diagnosis</b>  [(2021)](https://www.medrxiv.org/content/10.1101/2021.07.19.21260789v1)
-  + <b> Tracking proteins that cause Alzheimer's using deep learning</b>   [(2020)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03848-0)
-  + <b> Alzheimer's Diagnosis Using Deep Learning</b>  [(2019)](https://www.frontiersin.org/articles/10.3389/fnagi.2019.00220/full)
-  + <b> Protein Fold Prediction Using Deep Learning</b>  [(2015)](https://www.nature.com/articles/srep17573) 
-  + <b> Protein Fold Prediction Using Machine Learning</b>  [(2014)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-S11-S14)
+  + <b> Deep learning-based identification of genetic variants: application to Alzheimer’s disease classification</b>  [(Code)](https://github.com/taehojo/SWAT-CNN), [(paper)](https://pubmed.ncbi.nlm.nih.gov/35183061/)
+  + <b>A machine learning-based transcription termination prediction program </b> [(Code)](https://github.com/taehojo/machine-learning-biochemistry-rho)
+  + <b> Tracking proteins that cause Alzheimer's using deep learning</b>   [(paper)](https://pubmed.ncbi.nlm.nih.gov/33371874/)
+  + <b> Alzheimer's Diagnosis Using Deep Learning</b>  [(paper)](https://pubmed.ncbi.nlm.nih.gov/31481890/)
+  + <b> Protein Fold Prediction Using Deep Learning</b>  [(paper)](https://pubmed.ncbi.nlm.nih.gov/26634993/) 
+  + <b> Protein Fold Prediction Using Machine Learning</b>  [(paper)](https://pubmed.ncbi.nlm.nih.gov/25350499/)
 
 ✨ New book
   + <b> Deep Learning for Everyone 3rd Edition </b> ([Code](https://github.com/taehojo/deeplearning),[Errata](https://taehojo.github.io/book/deeplearning-20220727.pdf),[Book](http://www.yes24.com/Product/Goods/108553440)), Gilbut, 2022  [![Youtube](https://img.shields.io/youtube/channel/views/UC_LvgzB44dGRvOcQqMzdT4g?label=%EB%8F%99%EC%98%81%EC%83%81%20%EA%B0%95%EC%9D%98&style=social)](https://bit.ly/taehojo) 
