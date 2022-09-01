@@ -8,13 +8,8 @@
 * 📖 IT책
   + 모두의 딥러닝 개정2판 ([코드](https://github.com/taehojo/deeplearning-for-everyone-2nd), [정오표](https://taehojo.github.io/book/errata-20220511.pdf)), 길벗, 2019 
   + 모두의 딥러닝 1판 ([코드](https://github.com/taehojo/deeplearning-for-everyone-1st)), 길벗, 2017
-
-
-* 📖 번역서
   + 그림으로 배우는 인지과학 ([책](http://www.yes24.com/Product/Goods/108250950)), 길벗, 2022 
   + 쉽게 시작하는 캐글 데이터 분석  ([코드](https://github.com/taehojo/getting_started_with_kaggle),[책](http://www.yes24.com/Product/Goods/103526120)), 길벗, 2021 
-
-* 📖 감수서
   + 딥러닝 워크북 ([코드](https://github.com/taehojo/deeplearning-workshop), [책](http://www.yes24.com/Product/Goods/59789570)), 길벗, 2018
 
 * 🔬 연구
