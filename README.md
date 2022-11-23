@@ -2,7 +2,9 @@
 머신러닝, 딥러닝을 이용해 알츠하이머 질병의 조기 진단을 연구하며, 틈틈이 책을 쓰고 번역합니다 ✍️ <br/> 
 
 * 📖 IT책
-  + <b> 모두의 딥러닝 개정3판  ([코드](https://github.com/taehojo/deeplearning), [정오표](https://taehojo.github.io/book/deeplearning-20221120.pdf), [책](http://www.yes24.com/Product/Goods/108553440)), 길벗, 2022  [![Youtube](https://img.shields.io/youtube/channel/views/UC_LvgzB44dGRvOcQqMzdT4g?label=%EB%8F%99%EC%98%81%EC%83%81%20%EA%B0%95%EC%9D%98&style=social)]([https://www.youtube.com/@taehojo) </b>
+  + <b> 모두의 딥러닝 개정3판  ([코드](https://github.com/taehojo/deeplearning), [정오표](https://taehojo.github.io/book/deeplearning-20221120.pdf), [책](http://www.yes24.com/Product/Goods/108553440)), 길벗, 2022 
+ +  [![Youtube](https://img.shields.io/youtube/channel/views/UC_LvgzB44dGRvOcQqMzdT4g?label=%EB%8F%99%EC%98%81%EC%83%81%20%EA%B0%95%EC%9D%98&style=social)](https://www.youtube.com/@taehojo) [유튜브 강좌 바로가기](https://www.youtube.com/@taehojo)  
+  +   </b>
   + 모두의 딥러닝 개정2판 ([코드](https://github.com/taehojo/deeplearning-for-everyone-2nd), [정오표](https://taehojo.github.io/book/errata-20220511.pdf)), 길벗, 2019 
   + 모두의 딥러닝 1판 ([코드](https://github.com/taehojo/deeplearning-for-everyone-1st)), 길벗, 2017
   + 그림으로 배우는 인지과학 ([책](http://www.yes24.com/Product/Goods/108250950)), 길벗, 2022 
