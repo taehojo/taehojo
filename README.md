@@ -31,11 +31,11 @@ Assistant research professor at the Indiana University School of Medicine.
 Research interest: early detection of Alzheimer's disease using AI/deep learning methods on genomic, multi-omics, and radiology data.
   
 📖 Book
-  + <b> Deep Learning for Everyone 3rd Edition </b> ([Code](https://github.com/taehojo/deeplearning), [Errata](https://taehojo.github.io/book/deeplearning-20221107.pdf), [Book](http://www.yes24.com/Product/Goods/108553440)), Gilbut, 2022  [![Youtube](https://img.shields.io/youtube/channel/views/UC_LvgzB44dGRvOcQqMzdT4g?label=%EB%8F%99%EC%98%81%EC%83%81%20%EA%B0%95%EC%9D%98&style=social)](https://bit.ly/taehojo) 
-  + Deep Learning for Everyone  2nd Edition ([Code](https://github.com/taehojo/deeplearning-for-everyone-2nd), [Errata](https://taehojo.github.io/book/errata-20220511.pdf)), Gilbut, 2019 
+  + <b> Deep Learning for Everyone 3rd Edition </b> ([Code](https://github.com/taehojo/deeplearning)), Gilbut, 2022  [![Youtube](https://img.shields.io/youtube/channel/views/UC_LvgzB44dGRvOcQqMzdT4g?label=%EB%8F%99%EC%98%81%EC%83%81%20%EA%B0%95%EC%9D%98&style=social)](https://bit.ly/taehojo) 
+  + Deep Learning for Everyone  2nd Edition ([Code](https://github.com/taehojo/deeplearning-for-everyone-2nd)), Gilbut, 2019 
   + Deep Learning for Everyone 1st Edition ([Code](https://github.com/taehojo/deeplearning-for-everyone-1st)), Gilbut, 2017
   + Cognitive Neuroscience  ([Book](http://www.yes24.com/Product/Goods/108250950)), Gilbot, 2022
-  + Kaggle Data Analysis  ([Code](https://github.com/taehojo/getting_started_with_kaggle), [Errata](https://taehojo.github.io/book/kaggle-092322.pdf), [Book](http://www.yes24.com/Product/Goods/103526120)), Gilbot, 2021
+  + Kaggle Data Analysis  ([Code](https://github.com/taehojo/getting_started_with_kaggle)), Gilbot, 2021
   + Deep Learning Workbook  ([Code](https://github.com/taehojo/deeplearning-workshop), [Book](http://www.yes24.com/Product/Goods/59789570)), Gilbot, 2018
   + What is Your Reason  ([Book](http://www.yes24.com/Product/Goods/90981164), [Brunch](https://brunch.co.kr/brunchbook/not-this-world)), A Certain Book, 2020
 
