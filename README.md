@@ -20,7 +20,7 @@ Research interest: early detection of Alzheimer's disease using AI/deep learning
   + Improving protein fold recognition by Random Forest [(paper)](https://pubmed.ncbi.nlm.nih.gov/25350499/)
   + A machine learning-based transcription termination prediction program [(Code)](https://github.com/taehojo/machine-learning-biochemistry-rho)
 
-[[Details About Research]](http://www.taehojo.com/)
+  [[➡️ Details About Research]](http://www.taehojo.com/)
 
 ****
 
