@@ -13,7 +13,7 @@ Research interest: early detection of Alzheimer's disease using AI/deep learning
   + What is Your Reason  ([Book](http://www.yes24.com/Product/Goods/90981164), [Brunch](https://brunch.co.kr/brunchbook/not-this-world)), A Certain Book, 2020
 
 🔬 Research
-  + <b>Deep learning-based identification of genetic variants: application to Alzheimer’s disease classification </b>  [(Code)](https://github.com/taehojo/SWAT-CNN), [(paper)](https://pubmed.ncbi.nlm.nih.gov/35183061/)
+  + <b>Deep learning-based identification of genetic variants: application to Alzheimer’s disease classification </b>  [(Code)](https://github.com/taehojo/SWAT), [(paper)](https://pubmed.ncbi.nlm.nih.gov/35183061/)
   + Deep learning detection of informative features in tau PET for Alzheimer's disease classification   [(paper)](https://pubmed.ncbi.nlm.nih.gov/33371874/)
   + Deep Learning in Alzheimer's Disease: Diagnostic Classification and Prognostic Prediction Using Neuroimaging Data  [(paper)](https://pubmed.ncbi.nlm.nih.gov/31481890/)
   + Improving protein fold recognition by Deep Learning [(paper)](https://pubmed.ncbi.nlm.nih.gov/26634993/) 
