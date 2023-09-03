@@ -14,7 +14,7 @@ Research interest: early detection of Alzheimer's disease using AI/deep learning
 
 🔬 Research 
   + [➡️ Details About Research](http://www.taehojo.com/)
-  + + <b>Deep learning-based identification of genetic variants: application to Alzheimer’s disease classification </b>  [(Code)](https://github.com/taehojo/SWAT), [(paper)](https://pubmed.ncbi.nlm.nih.gov/35183061/)
+  + <b>Deep learning-based identification of genetic variants: application to Alzheimer’s disease classification </b>  [(Code)](https://github.com/taehojo/SWAT), [(paper)](https://pubmed.ncbi.nlm.nih.gov/35183061/)
   + Deep learning detection of informative features in tau PET for Alzheimer's disease classification   [(paper)](https://pubmed.ncbi.nlm.nih.gov/33371874/)
   + Deep Learning in Alzheimer's Disease: Diagnostic Classification and Prognostic Prediction Using Neuroimaging Data  [(paper)](https://pubmed.ncbi.nlm.nih.gov/31481890/)
   + Improving protein fold recognition by Deep Learning [(paper)](https://pubmed.ncbi.nlm.nih.gov/26634993/) 
