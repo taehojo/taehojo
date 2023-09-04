@@ -9,7 +9,7 @@ Early detection of Alzheimer's disease using AI/deep learning methods on genomic
 
 ---
 
-📖 **Books**
+📖 **Books by Taeho Jo**
   + **Deep Learning for Everyone 3rd Edition** ([Code](https://github.com/taehojo/deeplearning)), Gilbut, 2022 
   + **Deep Learning for Everyone 2nd Edition** ([Code](https://github.com/taehojo/deeplearning-for-everyone-2nd)), Gilbut, 2019 
   + **Deep Learning for Everyone 1st Edition** ([Code](https://github.com/taehojo/deeplearning-for-everyone-1st)), Gilbut, 2017
