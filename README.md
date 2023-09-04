@@ -1,29 +1,35 @@
-### Taeho Jo Ph.D 
+### Taeho Jo, Ph.D 🎓 
 
-Assistant research professor at the Indiana University School of Medicine. 
-Research interest: early detection of Alzheimer's disease using AI/deep learning methods on genomic, multi-omics, and radiology data.
-  
-📖 Book
-  + Deep Learning for Everyone 3rd Edition </b> ([Code](https://github.com/taehojo/deeplearning)), Gilbut, 2022 
-  + Deep Learning for Everyone  2nd Edition ([Code](https://github.com/taehojo/deeplearning-for-everyone-2nd)), Gilbut, 2019 
-  + Deep Learning for Everyone 1st Edition ([Code](https://github.com/taehojo/deeplearning-for-everyone-1st)), Gilbut, 2017
-  + Cognitive Neuroscience  ([Book](http://www.yes24.com/Product/Goods/108250950)), Gilbot, 2022
-  + Kaggle Data Analysis  ([Code](https://github.com/taehojo/getting_started_with_kaggle)), Gilbot, 2021
-  + Deep Learning Workbook  ([Code](https://github.com/taehojo/deeplearning-workshop), [Book](http://www.yes24.com/Product/Goods/59789570)), Gilbot, 2018
-  + What is Your Reason  ([Book](http://www.yes24.com/Product/Goods/90981164), [Brunch](https://brunch.co.kr/brunchbook/not-this-world)), A Certain Book, 2020
+---
 
-🔬 Research 
-  + [➡️ Details About Research](http://www.taehojo.com/)
-  + <b>Deep learning-based identification of genetic variants: application to Alzheimer’s disease classification </b>  [(Code)](https://github.com/taehojo/SWAT), [(paper)](https://pubmed.ncbi.nlm.nih.gov/35183061/)
-  + Deep learning detection of informative features in tau PET for Alzheimer's disease classification   [(paper)](https://pubmed.ncbi.nlm.nih.gov/33371874/)
-  + Deep Learning in Alzheimer's Disease: Diagnostic Classification and Prognostic Prediction Using Neuroimaging Data  [(paper)](https://pubmed.ncbi.nlm.nih.gov/31481890/)
-  + Improving protein fold recognition by Deep Learning [(paper)](https://pubmed.ncbi.nlm.nih.gov/26634993/) 
-  + Improving protein fold recognition by Random Forest [(paper)](https://pubmed.ncbi.nlm.nih.gov/25350499/)
-  + A machine learning-based transcription termination prediction program [(Code)](https://github.com/taehojo/machine-learning-biochemistry-rho)
+**Assistant Research Professor** at the Indiana University School of Medicine.
 
-  
+**Research Interest**: 
+Early detection of Alzheimer's disease using AI/deep learning methods on genomic, multi-omics, and radiology data.
 
-****
+---
+
+📖 **Books**
+  + **Deep Learning for Everyone 3rd Edition** ([Code](https://github.com/taehojo/deeplearning)), Gilbut, 2022 
+  + **Deep Learning for Everyone 2nd Edition** ([Code](https://github.com/taehojo/deeplearning-for-everyone-2nd)), Gilbut, 2019 
+  + **Deep Learning for Everyone 1st Edition** ([Code](https://github.com/taehojo/deeplearning-for-everyone-1st)), Gilbut, 2017
+  + **Cognitive Neuroscience** ([Book](http://www.yes24.com/Product/Goods/108250950)), Gilbot, 2022
+  + **Kaggle Data Analysis** ([Code](https://github.com/taehojo/getting_started_with_kaggle)), Gilbot, 2021
+  + **Deep Learning Workbook** ([Code](https://github.com/taehojo/deeplearning-workshop), [Book](http://www.yes24.com/Product/Goods/59789570)), Gilbot, 2018
+  + **What is Your Reason** ([Book](http://www.yes24.com/Product/Goods/90981164), [Brunch](https://brunch.co.kr/brunchbook/not-this-world)), A Certain Book, 2020
+
+---
+
+🔬 **Research**
+  + [➡️ **Details About Research**](http://www.taehojo.com/)
+    + **Deep learning-based identification of genetic variants: application to Alzheimer’s disease classification** [(Code)](https://github.com/taehojo/SWAT), [(paper)](https://pubmed.ncbi.nlm.nih.gov/35183061/)
+    + **Deep learning detection of informative features in tau PET for Alzheimer's disease classification** [(paper)](https://pubmed.ncbi.nlm.nih.gov/33371874/)
+    + **Deep Learning in Alzheimer's Disease: Diagnostic Classification and Prognostic Prediction Using Neuroimaging Data** [(paper)](https://pubmed.ncbi.nlm.nih.gov/31481890/)
+    + **Improving protein fold recognition by Deep Learning** [(paper)](https://pubmed.ncbi.nlm.nih.gov/26634993/) 
+    + **Improving protein fold recognition by Random Forest** [(paper)](https://pubmed.ncbi.nlm.nih.gov/25350499/)
+    + **A machine learning-based transcription termination prediction program** [(Code)](https://github.com/taehojo/machine-learning-biochemistry-rho)
+
+---
 
 ###  <b> 안녕하세요 조태호입니다 </b> 👋 
 머신러닝, 딥러닝을 이용해 알츠하이머 질병의 조기 진단을 연구하며, 틈틈이 책을 쓰고 번역합니다 ✍️ <br/> 
