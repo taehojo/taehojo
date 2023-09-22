@@ -22,12 +22,12 @@ Early detection of Alzheimer's disease using AI/deep learning methods on genomic
 
 🔬 **Research in Computational Biology with Machine Learning & Deep Learning**
   + [➡️ **Details About Research**](http://www.taehojo.com/)
-    + **Circular-SWAT for deep learning based diagnostic classification of Alzheimer’s disease: Application to metabolome data** [(Code)](https://github.com/taehojo/c-SWAT), [eBioMedicine (accepted, 2023)]
-    + **Deep learning-based identification of genetic variants: application to Alzheimer’s disease classification** [(Code)](https://github.com/taehojo/SWAT), [Brief. Bioinform. (2022)](https://pubmed.ncbi.nlm.nih.gov/35183061/)
-    + **Deep learning detection of informative features in tau PET for Alzheimer's disease classification** [BMC Bioinform.(2020)](https://pubmed.ncbi.nlm.nih.gov/33371874/)
-    + **Deep Learning in Alzheimer's Disease: Diagnostic Classification and Prognostic Prediction Using Neuroimaging Data** [Front. Aging Neurosci.(2019)](https://pubmed.ncbi.nlm.nih.gov/31481890/)
-    + **Improving protein fold recognition by Deep Learning** [Sci. Rep.(2015)](https://pubmed.ncbi.nlm.nih.gov/26634993/) 
-    + **Improving protein fold recognition by Random Forest** [BMC Bioinform.(2014)](https://pubmed.ncbi.nlm.nih.gov/25350499/)
+    + **Circular-SWAT for deep learning based diagnostic classification of Alzheimer’s disease: Application to metabolome data** [(Code)](https://github.com/taehojo/c-SWAT), (accepted, 2023)
+    + **Deep learning-based identification of genetic variants: application to Alzheimer’s disease classification** [(Code)](https://github.com/taehojo/SWAT), [(Paper)](https://pubmed.ncbi.nlm.nih.gov/35183061/)
+    + **Deep learning detection of informative features in tau PET for Alzheimer's disease classification** [(Paper)](https://pubmed.ncbi.nlm.nih.gov/33371874/)
+    + **Deep Learning in Alzheimer's Disease: Diagnostic Classification and Prognostic Prediction Using Neuroimaging Data** [(Paper)](https://pubmed.ncbi.nlm.nih.gov/31481890/)
+    + **Improving protein fold recognition by Deep Learning** [(Paper)](https://pubmed.ncbi.nlm.nih.gov/26634993/) 
+    + **Improving protein fold recognition by Random Forest** [(Paper)](https://pubmed.ncbi.nlm.nih.gov/25350499/)
 ---
 
 ###  <b> 안녕하세요 조태호입니다 </b> 👋 
@@ -42,7 +42,7 @@ Early detection of Alzheimer's disease using AI/deep learning methods on genomic
   + 딥러닝 워크북 ([코드](https://github.com/taehojo/deeplearning-workshop), [책](http://www.yes24.com/Product/Goods/59789570)), 길벗, 2018
 
 * 🔬 연구 [➡️ **자세히**](http://www.taehojo.com/)
-  + 딥러닝을 이용한 알츠하이머 병 원인 대사체 식별 [코드](https://github.com/taehojo/c-SWAT), [(accepted, 2023)]
+  + 딥러닝을 이용한 알츠하이머 병 원인 대사체 식별 [(코드)](https://github.com/taehojo/c-SWAT), (accepted, 2023)
   + 딥러닝을 이용한 알츠하이머 병 유전 변이 식별 [(코드)](https://github.com/taehojo/SWAT), [(논문)](https://pubmed.ncbi.nlm.nih.gov/35183061/)
   + 딥러닝을 이용한 알츠하이머 병 원인 단백질 추적 [(논문)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03848-0)
   + 딥러닝을 이용한 알츠하이머 병 영상 이미지를 통한 진단 [(논문)](https://www.frontiersin.org/articles/10.3389/fnagi.2019.00220/full)
