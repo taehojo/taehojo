@@ -43,6 +43,7 @@ Early detection of Alzheimer's disease using AI/deep learning methods on genomic
   + 딥러닝 워크북 ([코드](https://github.com/taehojo/deeplearning-workshop), [책](http://www.yes24.com/Product/Goods/59789570)), 길벗, 2018
 
 * 🔬 연구
++ [➡️ **자세히**](http://www.taehojo.com/)
   + 딥러닝을 이용한 유전 변이 식별: 알츠하이버 병 분류에 적용 </b>  [(코드)](https://github.com/taehojo/SWAT), [(논문)](https://pubmed.ncbi.nlm.nih.gov/35183061/)
   + 딥러닝을 이용한 유전자 변이 추적 : 알츠하이머 진단으로의 적용 [(논문)](https://www.medrxiv.org/content/10.1101/2021.07.19.21260789v1)
   + 딥러닝을 이용한 알츠하이머 원인 단백질 추적 [(논문)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03848-0)
