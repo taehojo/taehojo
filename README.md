@@ -22,7 +22,7 @@ Early detection of Alzheimer's disease using AI/deep learning methods on genomic
 
 🔬 **Research in Computational Biology with Machine Learning & Deep Learning**
   + [➡️ **Details About Research**](http://www.taehojo.com/)
-    + **Circular-SWAT for deep learning based diagnostic classification of Alzheimer’s disease: Application to metabolome data** [(Code)](https://github.com/taehojo/c-SWAT), (accepted)
+    + **Circular-SWAT for deep learning based diagnostic classification of Alzheimer’s disease: Application to metabolome data** [(Code)](https://github.com/taehojo/c-SWAT), (accepted, 2023)
     + **Deep learning-based identification of genetic variants: application to Alzheimer’s disease classification** [(Code)](https://github.com/taehojo/SWAT), [(Paper)](https://pubmed.ncbi.nlm.nih.gov/35183061/)
     + **Deep learning detection of informative features in tau PET for Alzheimer's disease classification** [(Paper)](https://pubmed.ncbi.nlm.nih.gov/33371874/)
     + **Deep Learning in Alzheimer's Disease: Diagnostic Classification and Prognostic Prediction Using Neuroimaging Data** [(Paper)](https://pubmed.ncbi.nlm.nih.gov/31481890/)
