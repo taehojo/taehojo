@@ -10,19 +10,19 @@ Early detection of Alzheimer's disease using AI/deep learning methods on genomic
 ---
 
 📖 **Books by Taeho Jo**
-  + **Deep Learning for Everyone 3rd Edition** ([Code](https://github.com/taehojo/deeplearning)), Gilbut, 2022 
-  + **Deep Learning for Everyone 2nd Edition** ([Code](https://github.com/taehojo/deeplearning-for-everyone-2nd)), Gilbut, 2019 
-  + **Deep Learning for Everyone 1st Edition** ([Code](https://github.com/taehojo/deeplearning-for-everyone-1st)), Gilbut, 2017
-  + **Cognitive Neuroscience** ([Book](http://www.yes24.com/Product/Goods/108250950)), Gilbot, 2022
-  + **Kaggle Data Analysis** ([Code](https://github.com/taehojo/getting_started_with_kaggle)), Gilbot, 2021
-  + **Deep Learning Workbook** ([Code](https://github.com/taehojo/deeplearning-workshop), [Book](http://www.yes24.com/Product/Goods/59789570)), Gilbot, 2018
+  + **Deep Learning for Everyone - 3rd Edition** ([Code](https://github.com/taehojo/deeplearning)), Gilbut, 2022 
+  + **Deep Learning for Everyone - 2nd Edition** ([Code](https://github.com/taehojo/deeplearning-for-everyone-2nd)), Gilbut, 2019 
+  + **Deep Learning for Everyone - 1st Edition** ([Code](https://github.com/taehojo/deeplearning-for-everyone-1st)), Gilbut, 2017
+  + **Cognitive Neuroscience** ([Book](http://www.yes24.com/Product/Goods/108250950)), Gilbut, 2022
+  + **Kaggle Data Analysis** ([Code](https://github.com/taehojo/getting_started_with_kaggle)), Gilbut, 2021
+  + **Deep Learning Workbook** ([Code](https://github.com/taehojo/deeplearning-workshop), [Book](http://www.yes24.com/Product/Goods/59789570)), Gilbut, 2018
   + **What is Your Reason** ([Book](http://www.yes24.com/Product/Goods/90981164), [Brunch](https://brunch.co.kr/brunchbook/not-this-world)), A Certain Book, 2020
 
 ---
 
 🔬 **Research in Computational Biology with Machine Learning & Deep Learning**
   + [➡️ **Details About Research**](http://www.taehojo.com/)
-    + **Circular-SWAT for deep learning based diagnostic classification of Alzheimer’s disease: Application to metabolome data** [(Code)](https://github.com/taehojo/c-SWAT), (accepted, 2023)
+    + **Circular-SWAT for deep learning based diagnostic classification of Alzheimer’s disease: Application to metabolome data** [(Code)](https://github.com/taehojo/c-SWAT), (accepted)
     + **Deep learning-based identification of genetic variants: application to Alzheimer’s disease classification** [(Code)](https://github.com/taehojo/SWAT), [(Paper)](https://pubmed.ncbi.nlm.nih.gov/35183061/)
     + **Deep learning detection of informative features in tau PET for Alzheimer's disease classification** [(Paper)](https://pubmed.ncbi.nlm.nih.gov/33371874/)
     + **Deep Learning in Alzheimer's Disease: Diagnostic Classification and Prognostic Prediction Using Neuroimaging Data** [(Paper)](https://pubmed.ncbi.nlm.nih.gov/31481890/)
