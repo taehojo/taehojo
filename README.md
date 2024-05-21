@@ -2,7 +2,7 @@
 
 ---
 
-**Assistant Research Professor** at the Indiana University School of Medicine.
+**Assistant Professor** at the Indiana University School of Medicine.
 
 **Research Interest**: 
 Early detection of Alzheimer's disease using AI/deep learning methods on genomic, multi-omics, and radiology data.
