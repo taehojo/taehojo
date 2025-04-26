@@ -10,7 +10,7 @@ Early detection of Alzheimer's disease using AI/deep learning methods on genomic
 ---
 
 📖 **Books by Taeho Jo**
-  + **Deep Learning for Everyone - 4th Edition** ([Code](https://github.com/taehojo/deeplearning_4th)), Gilbut, 2022 
+  + **Deep Learning for Everyone - 4th Edition** ([Code](https://github.com/taehojo/deeplearning_4th)), Gilbut, 2025 
   + **Deep Learning for Everyone - 3rd Edition** ([Code](https://github.com/taehojo/deeplearning)), Gilbut, 2022 
   + **Deep Learning for Everyone - 2nd Edition** ([Code](https://github.com/taehojo/deeplearning-for-everyone-2nd)), Gilbut, 2019 
   + **Deep Learning for Everyone - 1st Edition** ([Code](https://github.com/taehojo/deeplearning-for-everyone-1st)), Gilbut, 2017
@@ -44,7 +44,7 @@ Early detection of Alzheimer's disease using AI/deep learning methods on genomic
   + 딥러닝 워크북 ([코드](https://github.com/taehojo/deeplearning-workshop), [책](http://www.yes24.com/Product/Goods/59789570)), 길벗, 2018
 
 * 🔬 연구 [➡️ **자세히**](http://www.taehojo.com/)
-  + 딥러닝을 이용한 알츠하이머 병 원인 대사체 식별 [(코드)](https://github.com/taehojo/c-SWAT), (accepted, 2023)
+  + 딥러닝을 이용한 알츠하이머 병 원인 대사체 식별 [(코드)](https://github.com/taehojo/c-SWAT)
   + 딥러닝을 이용한 알츠하이머 병 유전 변이 식별 [(코드)](https://github.com/taehojo/SWAT), [(논문)](https://pubmed.ncbi.nlm.nih.gov/35183061/)
   + 딥러닝을 이용한 알츠하이머 병 원인 단백질 추적 [(논문)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03848-0)
   + 딥러닝을 이용한 알츠하이머 병 영상 이미지를 통한 진단 [(논문)](https://www.frontiersin.org/articles/10.3389/fnagi.2019.00220/full)
