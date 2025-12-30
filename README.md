@@ -2,7 +2,7 @@
 머신러닝, 딥러닝을 이용해 알츠하이머 질병의 조기 진단을 연구하며, 틈틈이 책을 쓰고 번역합니다 ✍️ <br/> 
 
 * 📖 IT책
-  + <b> 혼자 공부하는 바이브 코딩 with 클로드 코드 ([코드](https://github.com/taehojo/vibecoding), [책](https://www.yes24.com/product/goods/167573138)), 한빛미디어, 2025 </b>
+  + <b> 혼자 공부하는 바이브 코딩 with 클로드 코드 ([코드](https://github.com/taehojo/vibecoding), [책](https://www.yes24.com/product/goods/167573138), [Youtube](https://www.youtube.com/@taehojo)), 한빛미디어, 2025 </b>
   + <b> 모두의 딥러닝 개정4판 ([코드](https://github.com/taehojo/deeplearning_4th), [책](http://www.yes24.com/Product/Goods/145612410), [Youtube](https://www.youtube.com/@taehojo)), 길벗, 2025 </b>
   + 모두의 딥러닝 개정3판 ([코드](https://github.com/taehojo/deeplearning), [책](http://www.yes24.com/Product/Goods/108553440), [Youtube](https://www.youtube.com/@taehojo)), 길벗, 2022 
   + 모두의 딥러닝 개정2판 ([코드](https://github.com/taehojo/deeplearning-for-everyone-2nd)), 길벗, 2019 
