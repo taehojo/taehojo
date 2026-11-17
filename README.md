@@ -1,137 +1,52 @@
-###  <b> 안녕하세요 조태호입니다 </b> 👋 
-머신러닝, 딥러닝을 이용해 알츠하이머 질병의 조기 진단을 연구하며, 틈틈이 책을 쓰고 번역합니다 ✍️ <br/> 
+## Taeho Jo, Ph.D.
 
-* 📖 IT책
-  + <b> 혼자 공부하는 바이브 코딩 with 클로드 코드 ([코드](https://github.com/taehojo/vibecoding), [책](https://www.yes24.com/product/goods/167573138), [Youtube](https://www.youtube.com/@taehojo)), 한빛미디어, 2025 </b>
-  + <b> 모두의 딥러닝 개정4판 ([코드](https://github.com/taehojo/deeplearning_4th), [책](http://www.yes24.com/Product/Goods/145612410), [Youtube](https://www.youtube.com/@taehojo)), 길벗, 2025 </b>
-  + 모두의 딥러닝 개정3판 ([코드](https://github.com/taehojo/deeplearning), [책](http://www.yes24.com/Product/Goods/108553440), [Youtube](https://www.youtube.com/@taehojo)), 길벗, 2022 
-  + 모두의 딥러닝 개정2판 ([코드](https://github.com/taehojo/deeplearning-for-everyone-2nd)), 길벗, 2019 
-  + 모두의 딥러닝 1판 ([코드](https://github.com/taehojo/deeplearning-for-everyone-1st)), 길벗, 2017
-  + 그림으로 배우는 인지과학 ([책](http://www.yes24.com/Product/Goods/108250950)), 길벗, 2022 
-  + 쉽게 시작하는 캐글 데이터 분석 ([코드](https://github.com/taehojo/getting_started_with_kaggle), [책](http://www.yes24.com/Product/Goods/103526120)), 길벗, 2021 
-  + 딥러닝 워크북 ([코드](https://github.com/taehojo/deeplearning-workshop), [책](http://www.yes24.com/Product/Goods/59789570)), 길벗, 2018
+I am a computational biologist and an Assistant Professor in the Department of Radiology and Imaging Sciences at Indiana University School of Medicine. I lead AI/ML research at the Indiana Alzheimer's Disease Research Center.
 
-* 🔬 연구
-  + 🧬 **Genomics & AI**: 대규모 유전체 데이터와 딥러닝을 결합하여 알츠하이머병 관련 유전 변이 식별
-  + 🧠 **Neuroimaging & AI**: PET/MRI와 3D CNN으로 뇌 변화 조기 감지
-  + 🔬 **Metabolomics & AI**: 혈액 기반 바이오마커로 질병 진행 예측
-  + 🎯 **Precision Medicine**: 위 분야를 통합한 개인 맞춤형 조기 진단
-  + [➡️ **자세히**](https://www.jolab.ai/)
+I develop deep learning methods for genomic and multimodal data to study Alzheimer's disease. I received my Ph.D. in computational biology in 2010 and have applied deep learning to biology since 2014, starting with protein structure prediction. I release the code, data, and tools from my studies as open source.
 
-<details open>
-<summary>🧬 <b>Genomics & AI</b> - 주요 논문 및 도구</summary>
+[Lab website (jolab.ai)](https://www.jolab.ai) · [ORCID](https://orcid.org/0000-0003-1765-5735)
 
-| 연도 | 논문 | 저널 | 핵심 내용 |
-|------|------|------|----------|
-| 2025 | [**TrUE-Net**](https://academic.oup.com/bib/article/26/6/bbaf587/8319948) | Briefings in Bioinformatics | Transformer + RF + MC Dropout. 고신뢰 예측에서 72.9% 정확도 |
-| 2025 | [**Deep-Block**](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/trc2.70041) | Alzheimer's & Dementia TRCI | LD 기반 다단계 딥러닝. 7,416명에서 30,218개 LD 블록 식별 |
-| 2022 | [**SWAT-CNN**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8921609/) | Briefings in Bioinformatics | 3단계 딥러닝 SNP 식별. AUC 0.82 |
+### Recent work
 
-**🛠️ 도구**: [Deep-Block](https://github.com/taehojo/Deep-Block) | [SWAT](https://github.com/taehojo/SWAT) | [TrUE-Net](https://github.com/taehojo/TrUE-Net) | [DuAL-Net](https://github.com/taehojo/DuAL-Net) | [AlphaGenome MCP](https://github.com/taehojo/alphagenome-mcp)
+- AlphaGenome scoring of 9,943 rare variants in 85 Alzheimer's disease genes from 24,595 multi-ancestry ADSP participants. Case-enriched variants showed higher predicted regulatory impact, with a direction-consistent signal in an independent cohort of 11,545 individuals. *Cell Reports*, 2026 (accepted). [Code and catalogue](https://github.com/taehojo/rarevariants) · [Interactive browser](https://taehojo.github.io/rarevariants/)
+- Anthropic AI for Science award (2026) for AI-driven genomic research in Alzheimer's disease.
+- Label-free LLM ranking for systematic-review screening, evaluated on 169,982 records from 128 systematic reviews. *medRxiv*, 2026. [Preprint](https://doi.org/10.64898/2026.10.09.26365173) · [ReviewFast](https://github.com/taehojo/reviewfast)
+- Systematic review of genetic variants and cognition across the Alzheimer's disease continuum, covering 111 studies from 6,453 records. *Ageing Research Reviews*, 2026 (accepted).
 
-</details>
+### Selected publications and code
 
-<details open>
-<summary>🧠 <b>Neuroimaging & AI</b> - 주요 논문</summary>
+#### Genomics
 
-| 연도 | 논문 | 저널 | 핵심 내용 |
-|------|------|------|----------|
-| 2020 | [**Tau PET Classification**](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03848-0) | BMC Bioinformatics | 3D CNN + LRP. 90.8% 정확도 |
-| 2019 | [**Deep Learning Review**](https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2019.00220/full) | Frontiers in Aging Neuroscience | AD 진단 딥러닝 체계적 문헌고찰 |
-| 2019 | **Multimodal-3DCNN** | AAIC | MRI + PET + APOE + 인구통계 통합 |
+| Year | Work | Journal | Summary | Code |
+|------|------|---------|---------|------|
+| 2026 | [DuAL-Net](https://doi.org/10.34133/csbj.0010) | Computational and Structural Biotechnology Journal | Local and global SNP models (TabNet and Random Forest) for Alzheimer's risk prediction from APOE-centered WGS data | [repo](https://github.com/taehojo/DuAL-Net) · [web](https://www.jolab.ai/dualnet) |
+| 2025 | [TrUE-Net](https://academic.oup.com/bib/article/26/6/bbaf587/8319948) | Briefings in Bioinformatics | Transformer ensemble with Monte Carlo dropout that reports how certain each prediction is | [repo](https://github.com/taehojo/TrUE-Net) · [web](https://www.jolab.ai/truenet) |
+| 2025 | [Deep-Block](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/trc2.70041) | Alzheimer's & Dementia: TRCI | LD-informed, multi-stage Transformer for risk-variant detection in WGS of 7,416 ADSP participants; new loci supported by eQTL analysis in 13 brain regions | [repo](https://github.com/taehojo/Deep-Block) |
+| 2022 | [SWAT-CNN](https://academic.oup.com/bib/article/23/2/bbac022/6532536) | Briefings in Bioinformatics | Three-step deep learning approach to find phenotype-related SNPs for disease classification | [repo](https://github.com/taehojo/SWAT) · [web](https://www.swatweb.org/swat) |
 
-</details>
+#### Multi-omics and neuroimaging
 
-<details open>
-<summary>🔬 <b>Metabolomics / Proteomics & AI</b> - 주요 논문 및 도구</summary>
+| Year | Work | Journal | Summary | Code |
+|------|------|---------|---------|------|
+| 2025 | [Longitudinal plasma proteomics](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.70900) | Alzheimer's & Dementia | Six plasma proteins prognostic of incident Alzheimer's disease (AUC 0.76); computational lead and joint corresponding author | |
+| 2023 | [c-SWAT](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00386-9/fulltext) | eBioMedicine | Circular sliding-window deep learning for diagnostic classification from metabolome data | [repo](https://github.com/taehojo/c-SWAT) |
+| 2020 | [Tau PET deep learning](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03848-0) | BMC Bioinformatics | 3D CNN with layer-wise relevance propagation to find informative regions in tau PET | |
+| 2019 | [Deep learning in Alzheimer's disease](https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2019.00220/full) | Frontiers in Aging Neuroscience | Review of deep learning for diagnostic classification and prognostic prediction from neuroimaging data | |
 
-| 연도 | 논문 | 저널 | 핵심 내용 |
-|------|------|------|----------|
-| 2025 | [**Longitudinal Proteomics**](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.70900) | Alzheimer's & Dementia | 종단적 혈장 단백체 분석. AUC 0.848 |
-| 2023 | [**c-SWAT**](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00386-9/fulltext) | eBioMedicine | 혈청 지질체 기반 AD 분류. 80.8% 정확도 |
+#### Protein structure
 
-**🛠️ 도구**: [c-SWAT](https://github.com/taehojo/c-SWAT)
+| Year | Work | Journal | Summary |
+|------|------|---------|---------|
+| 2015 | [Protein fold recognition by deep learning](https://www.nature.com/articles/srep17573) | Scientific Reports | DN-Fold, a deep learning method for fold recognition |
+| 2014 | CASP11 | | Our team (MULTICOM, Jianlin Cheng's lab, University of Missouri) ranked 2nd of 143 with an early deep learning entry |
 
-</details>
+### Tools for AI assistants
 
----
+- [AlphaGenome MCP](https://github.com/taehojo/alphagenome-mcp): a Model Context Protocol server that gives AI assistants natural-language access to AlphaGenome variant-effect predictions.
+- [ReviewFast](https://github.com/taehojo/reviewfast): a web app, Python package, and MCP server for title and abstract screening with a statistical stopping criterion.
 
-### Taeho Jo, Ph.D 🎓 
-**Assistant Professor** at the Indiana University School of Medicine.
+### Books
 
-**Research Interest**: 
-Early detection of Alzheimer's disease using AI/deep learning methods on genomic, multi-omics, and radiology data.
-
----
-
-📖 **Books by Taeho Jo**
-  + **Self-Study Vibe Coding with Claude Code** ([Code](https://github.com/taehojo/vibecoding)), Hanbit Media, 2025
-  + **Deep Learning for Everyone - 4th Edition** ([Code](https://github.com/taehojo/deeplearning_4th)), Gilbut, 2025 
-  + **Deep Learning for Everyone - 3rd Edition** ([Code](https://github.com/taehojo/deeplearning)), Gilbut, 2022 
-  + **Deep Learning for Everyone - 2nd Edition** ([Code](https://github.com/taehojo/deeplearning-for-everyone-2nd)), Gilbut, 2019 
-  + **Deep Learning for Everyone - 1st Edition** ([Code](https://github.com/taehojo/deeplearning-for-everyone-1st)), Gilbut, 2017
-  + **Cognitive Neuroscience** ([Book](http://www.yes24.com/Product/Goods/108250950)), Gilbut, 2022
-  + **Kaggle Data Analysis** ([Code](https://github.com/taehojo/getting_started_with_kaggle)), Gilbut, 2021
-  + **Deep Learning Workbook** ([Code](https://github.com/taehojo/deeplearning-workshop), [Book](http://www.yes24.com/Product/Goods/59789570)), Gilbut, 2018
-  + **What is Your Reason** ([Book](http://www.yes24.com/Product/Goods/90981164), [Brunch](https://brunch.co.kr/brunchbook/not-this-world)), A Certain Book, 2020
-
----
-
-🔬 **Research in Computational Biology with Machine Learning & Deep Learning** 
-
-<details open>
-<summary><b>🧬 Genomics & AI</b></summary>
-
-We combine large-scale genomic data with artificial intelligence to identify genetic variants linked to Alzheimer's disease.
-
-| Year | Paper | Journal | Key Finding |
-|------|-------|---------|-------------|
-| 2025 | [**TrUE-Net**](https://academic.oup.com/bib/article/26/6/bbaf587/8319948) | Briefings in Bioinformatics | Transformer + RF + MC Dropout. 72.9% accuracy on high-confidence predictions |
-| 2025 | [**Deep-Block**](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/trc2.70041) | Alzheimer's & Dementia TRCI | LD-based deep learning. 30,218 LD blocks from 7,416 individuals |
-| 2023 | **SWAT-TAB** | AAIC | TabNet-based sequential attention for genetic variant identification |
-| 2022 | [**SWAT-CNN**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8921609/) | Briefings in Bioinformatics | 3-step deep learning for SNP identification. AUC 0.82 |
-| 2021 | **Genome-wide CNN** | AAIC | CNN-based GWAS analysis on 12M+ SNPs |
-
-**🛠️ Tools**: [Deep-Block](https://github.com/taehojo/Deep-Block) | [SWAT](https://github.com/taehojo/SWAT) | [TrUE-Net](https://github.com/taehojo/TrUE-Net) | [DuAL-Net](https://github.com/taehojo/DuAL-Net) | [AlphaGenome MCP](https://github.com/taehojo/alphagenome-mcp)
-
-</details>
-
-<details open>
-<summary><b>🧠 Neuroimaging & AI</b></summary>
-
-Combining brain imaging technologies like PET and MRI with AI allows us to detect early changes in the brain associated with Alzheimer's.
-
-| Year | Paper | Journal | Key Finding |
-|------|-------|---------|-------------|
-| 2023 | **Tau PET + Genetics** | AAIC | CNN for tau PET + SWAT for SNPs. 90.8% accuracy, AUC 0.82 |
-| 2020 | [**Tau PET Classification**](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03848-0) | BMC Bioinformatics | 3D CNN + LRP. 90.8% accuracy |
-| 2020 | **Flortaucipir PET** | AAIC | CNN classification with LRP visualization |
-| 2019 | [**Deep Learning Review**](https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2019.00220/full) | Frontiers in Aging Neuroscience | Systematic review of DL + neuroimaging for AD |
-| 2019 | **Multimodal-3DCNN** | AAIC | MRI + PET + APOE + demographics integration |
-| 2018 | **Multimodal-CNN** | AAIC | CNN + Gram matrix for clinical data integration |
-
-</details>
-
-<details open>
-<summary><b>🔬 Metabolomics / Proteomics & AI</b></summary>
-
-By analyzing metabolites and proteins in blood, we can track biochemical changes as Alzheimer's progresses.
-
-| Year | Paper | Journal | Key Finding |
-|------|-------|---------|-------------|
-| 2025 | [**Longitudinal Proteomics**](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.70900) | Alzheimer's & Dementia | 7 proteins associated with AD progression. AUC 0.848 |
-| 2023 | [**c-SWAT**](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00386-9/fulltext) | eBioMedicine | Serum lipidomics-based AD classification. 80.8% accuracy |
-| 2022 | **Circling SWAT** | AAIC | 781 lipids analysis with correlation heatmap |
-
-**🛠️ Tools**: [c-SWAT](https://github.com/taehojo/c-SWAT)
-
-</details>
-
-<details open>
-<summary><b>🎯 Precision Medicine</b></summary>
-
-By integrating genomics, neuroimaging, and metabolomics with AI, we develop personalized approaches for early detection and treatment.
-
-</details>
-
-+ [➡️ **Details - https://www.jolab.ai**](https://www.jolab.ai/)
+- *Build with Claude Code* (Packt, 2026), the English edition of *Self-Study Vibe Coding with Claude Code* (Hanbit Media, 2025, Korean). [Code](https://github.com/taehojo/vibecoding)
+- *Deep Learning for Everyone*, 1st to 4th editions (Gilbut, 2017 to 2025, Korean). Code: [4th](https://github.com/taehojo/deeplearning_4th) · [3rd](https://github.com/taehojo/deeplearning) · [2nd](https://github.com/taehojo/deeplearning-for-everyone-2nd) · [1st](https://github.com/taehojo/deeplearning-for-everyone-1st)
+- Korean translations with code: [Getting Started with Kaggle Data Analysis](https://github.com/taehojo/getting_started_with_kaggle) (2021) · [Deep Learning Workbook](https://github.com/taehojo/deeplearning-workshop) (2018)
